@@ -6,7 +6,7 @@
 * Plot the spectral signature of any specific location.
 
 ## Note
-* The hyperspectral dataset can be downloaded from the following link: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+* The hyperspectral datasets can be downloaded from the following link: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 * The spectral library can be downloaded from the following link: https://pypi.org/project/spectral/ 
 <p align="center">
     or
