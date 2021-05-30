@@ -1,5 +1,5 @@
 # Hyperspectral Image Processing
-## This repo inlcude all the basic step to read and process the Hyper Spectral Imagery (HSI).
+## This repo inlcude all the basic steps to read and process the Hyper Spectral Imagery (HSI).
 * Read the Hyperspectral dataset (.mat file) using scipy.
 * Display the hyperspectral image using spectral.
 * Display any single band using matplotlib.
